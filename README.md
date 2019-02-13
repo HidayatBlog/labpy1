@@ -7,3 +7,4 @@
 -pilih menu NEW scratch file                                                                                                              
 -pilih python                                                                                                                                       
 setelah file baru terbuka tampilanya seperti berikut,                                                                                           
+![untitled](https://user-images.githubusercontent.com/46746119/52703460-f9033f80-2fb0-11e9-9598-b1673e4728c5.jpg)
