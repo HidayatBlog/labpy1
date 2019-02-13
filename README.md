@@ -22,16 +22,16 @@ Selanjutnya ketik perintah a = (int(print("\nMasukan bilangan pertama"))
 buat sampai 3 pariabel
 ![untitled2](https://user-images.githubusercontent.com/46746119/52704975-65337280-2fb4-11e9-8eec-0ca920772cb8.jpg)
 
-kemudia ketikan code: If a > b and a > c :                                                                                                    
-                      print ("\nNilai terbesarnya adalah:%s" $a)                                                                                    
+kemudia ketikan code: If a > b and a > c :                                                                                                                                                                                                          
+                      print ("\nNilai terbesarnya adalah:%s" $a)                                                                                                                                                              
 maksud dari codingan itu: Jika nilai a lebih besar dari b dan a lebih besar dari c                                                                                                                          
 maka hasil nya a, karena a bernilai lebih besar.                                                                                                                                                                                                    
 kenapa kita menggunakan perintah IF, karena pariabel lebih dari satu                                                                                                       
 dan kita mencari mana yang terbesar dari ketiga pariabel itu.                                                                                   
 ![untitled3](https://user-images.githubusercontent.com/46746119/52704977-65337280-2fb4-11e9-954c-38d5f09d9e71.jpg)
 
-Selanjutnya ketik perintah: elif b > a and b > c :
-                            print ("\nNilai terbesarnya adalah:%s" $b)                                                                              
+Selanjutnya ketik perintah: elif b > a and b > c :                                                                                              
+                            print ("\nNilai terbesarnya adalah:%s" $b)                                                                                                                                                          
 Untuk pariabel yang kedua kita menggunak perinta elif.?                                                                                                
 karena pariabel lebih dari satu dan dan elif merupakan opsi kedua jika if tidak menemukan hasil                                                                                
 dan elif perintah untuk memilih hasil yang sesuai apa yang di perintahkan                                                                            
